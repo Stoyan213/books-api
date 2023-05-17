@@ -1,8 +1,8 @@
-### Simple Books API
-# 🌉 (The API is available at https://simple-books-api.glitch.me)
-# (Allows you to reserve a book)
+# Simple Books API
+### 🌉 (The API is available at https://simple-books-api.glitch.me)
+### (Allows you to reserve a book)
 
-📜 Endpoints:
+# 📜 Endpoints:
 
 ## GET API Status
  - POST Register API Client
