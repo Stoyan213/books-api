@@ -4,7 +4,7 @@ Simple Books API
 
 📜 Endpoints:
 
-GET API Status
+## GET API Status
 POST Register API Client
 GET List of books
 GET Single Book
